@@ -1,0 +1,11 @@
+{
+  "name": "e128f4973303431c8f558846d6cf2b91",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
